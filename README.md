@@ -1,3 +1,3 @@
 # Hi! I'm Thibault, welcome to my GitHub :wave:
-I'm currently studying computer science at EPITA in France.
+I am a French software engineer with machine learning expertise.
 
